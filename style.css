@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding:10;
+}
+.startbtn {
+    border-radius: 20px !important;
+}
+.ordernow
+{
+       font-size: small;
+    }
